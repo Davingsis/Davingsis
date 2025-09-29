@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy David Esteban Lozano Insuasty  
 
-<!--
-**Davingsis/Davingsis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Ingeniero DevOps | Cloud | Automatización | Seguridad  
 
-Here are some ideas to get you started:
+🚀 Apasionado por:
+- CI/CD con Jenkins, GitLab y GitHub Actions  
+- Infraestructura como código (Terraform, Ansible, Docker, Kubernetes)  
+- Seguridad en pipelines y gestión de vulnerabilidades  
+- Automatización de despliegues en Azure y AWS  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tecnologías y Herramientas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,azure,terraform,ansible,docker,kubernetes,jenkins,git,github,linux,python,nodejs,mongodb" />
+</p>
+
+---
+
+## 📌 Proyectos Destacados
+- 🔹 [🚀 MEAN Stack en Azure con Terraform](https://github.com/tu-repo)
+- 🔹 [📊 Pipeline CI/CD con Jenkins + SonarQube](https://github.com/tu-repo)
+- 🔹 [🤖 Automatización con Ansible: WordPress + Nginx Proxy](https://github.com/tu-repo)
+
+---
+
+## 📫 Contacto
+- ✉️ [Correo](mailto:tu-correo@example.com)  
+- 💼 [LinkedIn](https://linkedin.com/in/tuusuario)  
